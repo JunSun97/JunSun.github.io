@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to my website! I am an assistant professor in [School of Social and Public Administration] (https://cpsa.ecust.edu.cn/12313/list.htm) at [East China University of Science and Technology] (https://www.ecust.edu.cn/en/)  in Shanghai China. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my Ph.D. in Management from [School of Public Policy and Management at Tsinghua University] (https://www.sppm.tsinghua.edu.cn/english/), and I also worked as a research assistant at [Center for Industrial Development and Environmental Governance at Tsinghua University] (https://www.cideg.tsinghua.edu.cn/column/About%20CIDEG). I also served as a visiting scholar at [University of California, Davis](https://www.ucdavis.edu/).
 
 A data-driven personal website
 ======
